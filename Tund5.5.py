@@ -1,3 +1,4 @@
+EST
 def pood():
     ostud = []
     hinnad = []
@@ -54,6 +55,9 @@ def pood():
             print("Vigane valik, proovi uuesti.")
 if __name__ == "__main__":
     pood()
+
+
+RUS
 def magazin():
     pokupki = []
     tseny = []
