@@ -54,15 +54,6 @@ def pood():
             print("Vigane valik, proovi uuesti.")
 if __name__ == "__main__":
     pood()
-
-
-
-
-
-
-
-
-
 def magazin():
     pokupki = []
     tseny = []
